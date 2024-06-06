@@ -1,4 +1,8 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/nipsn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nipsn/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+---
+[Generate your own report](https://github.com/jstrieb/github-stats)
 
 <!--
 **nipsn/nipsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
